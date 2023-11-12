@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.09c8c066.css","mappings":"AAAA,WAEI,UAAY,CADZ,oBAEJ,CAEA,iBACI,UACJ","sources":["components/Navbar.css"],"sourcesContent":[".rem-under {\r\n    text-decoration: none;\r\n    color: black;\r\n}\r\n\r\n.rem-under:hover {\r\n    color: white;\r\n}"],"names":[],"sourceRoot":""}
